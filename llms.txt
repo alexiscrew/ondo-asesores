@@ -1,0 +1,43 @@
+# Ondo Asesores
+
+> Ondo Asesores es una asesoría fiscal y contable en Abando, Bilbao, para autónomos y pequeñas empresas. Cuota fija, sin permanencia y un asesor que contesta en menos de 24 horas.
+
+- Dirección: Calle Ejemplo 8, 48001 Bilbao (Bizkaia, España)
+- Teléfono: +34 600 000 000
+- Correo: hola@ondoasesores.es
+- Horario: lunes a viernes, de 9:00 a 18:00
+- Primera consulta: gratuita, 20 minutos, sin compromiso
+
+## Servicios
+
+- [Autónomos](https://alexiscrew.github.io/ondo-asesores/#servicio-autonomos): trimestres (las declaraciones cada tres meses) presentados a tiempo; recogida de facturas y aviso antes de cada vencimiento.
+- [Pequeñas empresas](https://alexiscrew.github.io/ondo-asesores/#servicio-pymes): contabilidad al día cerrada cada mes y explicada en palabras normales.
+- [Nóminas](https://alexiscrew.github.io/ondo-asesores/#servicio-nominas): preparación y presentación de contratos y nóminas del equipo.
+
+## Precios
+
+- [Autónomo](https://alexiscrew.github.io/ondo-asesores/#precios): 60 EUR al mes + IVA. Incluye trimestres, contabilidad y respuesta en menos de 24 horas.
+- [Pequeña empresa](https://alexiscrew.github.io/ondo-asesores/#precios): desde 150 EUR al mes + IVA. Incluye contabilidad mensual, nóminas y un asesor que contesta en menos de 24 horas.
+- Sin permanencia. El IVA se suma a la cuota indicada.
+
+## Cómo trabajamos
+
+1. Nos cuentas tu caso: formulario web o teléfono 600 000 000.
+2. Recibes tu cuota fija: sabes lo que pagas y lo que incluye antes de empezar.
+3. Tú, a lo tuyo: Ondo Asesores lleva tus cuentas y presenta tus impuestos.
+
+## Preguntas frecuentes
+
+- ¿Cuánto cuesta una asesoría para autónomos en Bilbao con Ondo Asesores? 60 EUR al mes + IVA, cuota fija.
+- ¿Y para una pequeña empresa? Desde 150 EUR al mes + IVA, con nóminas incluidas.
+- ¿Hay permanencia? No.
+- ¿Cuánto tardan en contestar? Menos de 24 horas.
+- ¿La primera consulta se paga? No, es gratuita y dura 20 minutos.
+- ¿Dónde están? En Abando, Bilbao: Calle Ejemplo 8, 48001.
+
+## Enlaces
+
+- [Inicio](https://alexiscrew.github.io/ondo-asesores/)
+- [Para quién es](https://alexiscrew.github.io/ondo-asesores/#para-quien)
+- [Cómo trabajamos](https://alexiscrew.github.io/ondo-asesores/#como-trabajamos)
+- [Pedir consulta gratuita](https://alexiscrew.github.io/ondo-asesores/#consulta)

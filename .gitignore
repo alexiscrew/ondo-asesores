@@ -1,0 +1,12 @@
+.playwright-mcp/
+# Archivos internos de iteración
+SPEC.md
+FIX1.md
+ANIM1.md
+ANIM2.md
+BRIEF-RESUMEN.md
+# Capturas y pruebas internas: solo se publica la evidencia del humanizado
+docs/*
+!docs/HUMANIZADO.md
+!docs/quillbot-humanizador.jpg
+!docs/detector-ia-humanizeai.jpg

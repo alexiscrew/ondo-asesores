@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://alexiscrew.github.io/ondo-asesores/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://alexiscrew.github.io/ondo-asesores/img/hero-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://alexiscrew.github.io/ondo-asesores/img/owner-800.webp</image:loc></image:image>
+    <image:image><image:loc>https://alexiscrew.github.io/ondo-asesores/img/asesoria-1200.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://alexiscrew.github.io/ondo-asesores/llms.txt</loc>
+    <lastmod>2026-10-09</lastmod>
+  </url>
+</urlset>
